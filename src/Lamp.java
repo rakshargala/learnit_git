@@ -6,6 +6,13 @@ class Lamp{
 
 
 
+
+
+
+
+
+
+
 class Dog extends Lamp{
 	@Override
 	public void Animal() {
